@@ -6,7 +6,7 @@ const axios = require("axios");
 const app = express();
 const PORT = 3000;
 
-const TELEGRAM_BOT_TOKEN = "8037110552:AAH3tnFaa0olHkOWND7scRhUJ3UG0ojZMEw";
+const TELEGRAM_BOT_TOKEN = "7990890271:AAFHGe2etMiRhZxaZj8JbcVHdPnBx-yHqB8";
 const TELEGRAM_USER_ID = "7341190291";
 
 const viewerLogPath = path.join(__dirname, "viewers.json");
